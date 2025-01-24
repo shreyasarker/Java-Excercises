@@ -1,5 +1,7 @@
 package DataTypes;
 
+// Objective:Declare variables of various data types and print their values.
+
 public class DataTypes {
 
     public static void main(String[] args) {
